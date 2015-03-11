@@ -1,4 +1,5 @@
 This is a test of git.
+Another test.
 
 CONTENTS OF THIS FILE
 ---------------------
